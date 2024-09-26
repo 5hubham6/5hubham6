@@ -10,7 +10,7 @@ I’m a  Computer Science student passionate about coding, and technology, and c
 
 
 🛠️ Tech Stack
-Languages: C++, Python, Java, HTML/CSS
+Languages: C++, Python, HTML/CSS, Javascript(learning)
 Frameworks & Libraries: React, Pandas, TensorFlow 
 Tools: Git, GitLens, GitHub, VS Code, Figma(learning)
 
