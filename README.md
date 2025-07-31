@@ -13,25 +13,20 @@
 
 ## 👋 About Me
 
-Yo! I'm Shubham.
+Hey, I'm Shubham.
 
-I spend way too much time staring at screens and somehow turned it into a skill. Currently living in VS Code, breaking things in production, and pretending I meant to do that.
+I write code and sometimes it works. Currently spending way too much time figuring out why things break in ways they shouldn't. 
 
-Random facts about me:
-- I name my variables like they're pets (`let goodBoy = true`)
-- My code comments are funnier than my actual personality
-- I've had more relationships with APIs than actual humans
-- Stack Overflow is basically my second home
-- I talk to rubber ducks more than I'd like to admit
+Been working on some projects - mostly web stuff and AI experiments. Nothing groundbreaking, just trying to build things that solve actual problems instead of adding to the pile of useless apps.
 
-When I'm not wrestling with semicolons or questioning my life choices, I build stuff that occasionally works as intended.
+When I'm not staring at VS Code wondering why my code worked yesterday but not today, I'm probably scrolling through Stack Overflow or drinking coffee and pretending I have my life together.
 
-## 🎮 Current Side Quests
+## 🛠️ What I Work With
 
-**Frontend:** Making pixels dance with React and friends  
-**Backend:** Teaching servers to behave (they rarely listen)  
-**AI Stuff:** Convincing computers they're smart (spoiler: they're not)  
-**Late Night Projects:** Because sleep is overrated anyway
+**Frontend:** React, Next.js, TypeScript - making websites that don't suck  
+**Backend:** Python, Node.js - APIs that actually work  
+**AI/ML:** TensorFlow, PyTorch - teaching computers to do useful things  
+**Other stuff:** Whatever gets the job done
 
 ## 🛠️ Tech Stack
 
@@ -85,14 +80,14 @@ When I'm not wrestling with semicolons or questioning my life choices, I build s
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40">
 </p>
 
-## 🎯 Stuff I Built (That Actually Works)
+## 🎯 Projects I'm Working On
 
-| Project | What it does | Built with | Why I made it |
-|---------|--------------|------------|---------------|
-| **🔍 PlagExit** | Catches copy-paste ninjas | Next.js, Express, MongoDB | Professors were tired of reading the same essay 50 times |
-| **🏥 MedicalRAG** | Chatbot that knows medicine | React, FastAPI, Hugging Face | Wanted to help doctors without going to med school |
-| **🖼️ Medical Imaging** | Reads X-rays like a pro | Python, OpenCV, Pydicom | Because clicking through scans is boring |
-| **👋 Gesture Control** | Wave at your computer | Python, OpenCV | Mouse broke, got creative instead |
+| Project | What it is | Built with | Status |
+|---------|------------|------------|--------|
+| **🔍 PlagExit** | Academic integrity checker | Next.js, Express, MongoDB | In progress |
+| **🏥 MedicalRAG** | Healthcare chatbot | React, FastAPI, Hugging Face | Working on it |
+| **🖼️ Medical Imaging** | DICOM file viewer | Python, OpenCV | Early stages |
+| **👋 Gesture Control** | Hand gesture recognition | Python, OpenCV | Experimenting |
 
 ## 📊 GitHub Analytics
 
