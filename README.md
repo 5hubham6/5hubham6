@@ -13,13 +13,28 @@
 
 ## 👋 About Me
 
-Hey, I'm Shubham.
+<div align="center">
 
-I write code and sometimes it works. Currently spending way too much time figuring out why things break in ways they shouldn't. 
+> *"code is logic. but life isn't."*
 
-Been working on some projects - mostly web stuff and AI experiments. Nothing groundbreaking, just trying to build things that solve actual problems instead of adding to the pile of useless apps.
+</div>
 
-When I'm not staring at VS Code wondering why my code worked yesterday but not today, I'm probably scrolling through Stack Overflow or drinking coffee and pretending I have my life together.
+**hi, i'm shubham** - i build digital stuff that tries to make sense of messy human problems.
+
+```
+→ web apps that run fast.
+→ ai tools that (sometimes) think.  
+→ tiny ideas that turn into real things - the internet's good for that.
+```
+
+<div align="center">
+
+*i don't chase perfection.*  
+*just looking for things that click - for me, for others, or just in my head*
+
+</div>
+
+---
 
 ## 🛠️ What I Work With
 
