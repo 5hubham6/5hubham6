@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shubham!+%F0%9F%91%8B;Building+things+that+work;Code%2C+Coffee%2C+Repeat+%E2%98%95;Sometimes+they+even+do+what+I+want+%F0%9F%98%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=console.log(%22Hello+World!%22);+%F0%9F%91%8B;const+developer+%3D+%22Shubham%22;+%F0%9F%92%BB;Building+cool+stuff+with+code;Coffee+%2B+Code+%3D+Magic+%E2%98%95%F0%9F%AA%84" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20digital%20playground&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
@@ -7,24 +11,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=5hubham6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🧬 About Me
+## 👋 About Me
 
-Hiya, I'm Shubham! 
+Yo! I'm Shubham.
 
-I build things that work, break them, then fix them again (usually). Currently deep in the world of web apps, AI experiments, and trying to make computers do smart things.
+I spend way too much time staring at screens and somehow turned it into a skill. Currently living in VS Code, breaking things in production, and pretending I meant to do that.
 
-� **Curious by nature. Coder by choice. Debugger by necessity.**
+Random facts about me:
+- I name my variables like they're pets (`let goodBoy = true`)
+- My code comments are funnier than my actual personality
+- I've had more relationships with APIs than actual humans
+- Stack Overflow is basically my second home
+- I talk to rubber ducks more than I'd like to admit
 
-🎯 I build things that solve real problems, create experiences, and occasionally surprise me with how well they work.
+When I'm not wrestling with semicolons or questioning my life choices, I build stuff that occasionally works as intended.
 
-⚡ **Fun fact:** I once built a gesture recognition system because clicking was too mainstream. Spoiler: the mouse won in the end.
+## 🎮 Current Side Quests
 
-## 🧩 What I Do
-
-**Web Development:** Craft web apps that feel smooth and work fast  
-**AI/ML:** Building systems that actually solve problems (not just buzzwords)  
-**Backend:** Making servers that don't crash when people use them  
-**Problem Solving:** Turning "it doesn't work" into "it works beautifully"
+**Frontend:** Making pixels dance with React and friends  
+**Backend:** Teaching servers to behave (they rarely listen)  
+**AI Stuff:** Convincing computers they're smart (spoiler: they're not)  
+**Late Night Projects:** Because sleep is overrated anyway
 
 ## 🛠️ Tech Stack
 
@@ -70,14 +77,22 @@ I build things that work, break them, then fix them again (usually). Currently d
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" height="40">
 </p>
 
-## 🎯 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40">
+</p>
 
-| Project | Description | Tech Stack | Highlights |
-|---------|-------------|------------|------------|
-| **🔍 PlagExit** | Academic integrity system that actually works | Next.js, Express.js, MongoDB, Docker | 60% faster evaluation, 92% detection accuracy, handles 100+ daily submissions |
-| **🏥 MedicalRAG** | AI healthcare chatbot (2nd place, 800+ teams) | React, FastAPI, Hugging Face | 95% answer accuracy, 3x faster retrieval, Mistral-7B integration |
-| **🖼️ Medical Imaging** | DICOM viewer with ML disease detection | Python, OpenCV, Pydicom | Custom annotation UI, advanced metadata parsing |
-| **👋 Gesture Recognition** | Real-time hand tracking system | Python, OpenCV, CNNs | 98% accuracy, AR/VR ready |
+## 🎯 Stuff I Built (That Actually Works)
+
+| Project | What it does | Built with | Why I made it |
+|---------|--------------|------------|---------------|
+| **🔍 PlagExit** | Catches copy-paste ninjas | Next.js, Express, MongoDB | Professors were tired of reading the same essay 50 times |
+| **🏥 MedicalRAG** | Chatbot that knows medicine | React, FastAPI, Hugging Face | Wanted to help doctors without going to med school |
+| **🖼️ Medical Imaging** | Reads X-rays like a pro | Python, OpenCV, Pydicom | Because clicking through scans is boring |
+| **👋 Gesture Control** | Wave at your computer | Python, OpenCV | Mouse broke, got creative instead |
 
 ## 📊 GitHub Analytics
 
@@ -89,7 +104,7 @@ I build things that work, break them, then fix them again (usually). Currently d
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=5hubham6&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-##  Let's Connect!
+## 🌐 Find Me Online
 
 <div align="center">
 
@@ -102,9 +117,5 @@ I build things that work, break them, then fix them again (usually). Currently d
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=5hubham6&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
-
-<div align="center">
-  <i>💡 "The best way to predict the future is to create it." - Let's build something amazing together!</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
